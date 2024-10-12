@@ -8,7 +8,7 @@ Skills:
 - C# (1 year)
 - Object Oriented Programming
 - Algorithms (Sorting, Searching, Recursive, Hashing)
-- Data Structures (Array, List, Stack, Queue, Tree, Graph)
+- Data Structures (Arrays, Lists, Stacks, Queues, Trees, Graphs)
 - System Design
 - Software Development Lifecycle
 - Google Sheets
