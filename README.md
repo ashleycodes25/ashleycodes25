@@ -1,16 +1,18 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ashleycodes25/ashleycodes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior in high school and want to major in Computer Science in college! I plan to use my coding skills in the themed entertainment industry working on rollercoasters as an Imagineer.
 
-Here are some ideas to get you started:
+Skills:
+- Java (4 years)
+- Python (1 year)
+- C# (1 year)
+- Object Oriented Programming
+- Algorithms (Sorting, Searching, Recursive, Hashing)
+- Data Structures (Array, List, Stack, Queue, Tree, Graph)
+- System Design
+- Software Development Lifecycle
+- Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects:
+- Working with a team to build an app which makes it easier for students at my highschool to navigate the school, access teacher's tutoring times, and learn about avaiable clubs.
+- Studying for the OCA certification (Oracle Certified Associate)
