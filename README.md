@@ -15,4 +15,4 @@ Skills:
 
 Current Projects:
 - Working with a team to build an app which makes it easier for students at my highschool to navigate the school, access teacher's tutoring times, and learn about avaiable clubs.
-- Studying for the OCA certification (Oracle Certified Associate)
+- Studying for the OCA (Oracle Certified Associate) certification 
