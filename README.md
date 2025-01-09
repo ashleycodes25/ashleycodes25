@@ -13,6 +13,11 @@ Skills:
 - Software Development Lifecycle
 - Google Sheets
 
+Past Projects / Accomplishments:
+- Coded Mario in Java for my end of year project. (Freshman Year)
+- Made a 5 on the AP Computer Science A Exam. (Sophomore Year)
+- Worked with a team of 3 to create a multi-level video game with bosses and mini games for our end of year project. Had to present our game concept (including a screen flow diagram, all the classes, objects, and methods we intended to use, concept art, and more), follow a strict timeline we made for ourselves with weekly goals, and present the finished product by a deadline. (Junior Year)
+
 Current Projects:
 - Working with a team to build an app which makes it easier for students at my highschool to navigate the school, access teacher's tutoring times, and learn about avaiable clubs.
 - Studying for the OCA (Oracle Certified Associate) certification 
